@@ -81,3 +81,39 @@ h3 {
     border: 2px solid crimson;
     color: crimson;
 }
+
+.third-section {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.third-section p {
+    margin: 30px;
+}
+
+
+
+.plan-box {
+
+    display: flex;
+    width: 1200px;
+}
+
+.plan-a {
+    background: #EDF5F6;
+    margin: 10px;
+    padding: 50px 30px;
+    text-align: left;
+    border-radius: 8px;
+}
+
+#shelter {
+    background-color: #FFEEEE;
+}
+
+#education {
+    background-color: #FFF4D6;
+}
